@@ -2,3 +2,9 @@ venv/
 __pycache__/
 *.pyc
 .streamlit/
+
+# Task 3 - ChromaDB generated files
+Task3_Dynamic_Knowledge_Base/chroma_db/
+
+# Task 3 - Local data
+Task3_Dynamic_Knowledge_Base/data/
